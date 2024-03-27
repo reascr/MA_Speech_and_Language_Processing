@@ -1,6 +1,6 @@
 This repository contains assignments and projects completed during the Master of Arts (MA) program in Speech and Language Processing at the University of Konstanz, Germany.
 
-### Advanced Java Assignments
+#### Advanced Java Assignments
 Assignments completed within the class "Programmierkurs 2: Fortgeschrittene imperative Sprache" (Advanced Java). The assignments focus on binary search trees, Dijkstra algorithm, Minimum Edit Distance, Adjacency Lists, and Counting Sort.
 
 #### Project in "Deep Learning with Python".
