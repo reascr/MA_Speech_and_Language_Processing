@@ -1,0 +1,10 @@
+bear, bird, cat, cow, dog, frog, pig, zebra
+cat, cow, dog, pig
+bear, cat, cow, dog, monkey, pig, turkey
+fish, pig, bird, cat, cow, dog, lion
+bear, cat, leopard, pig
+wild turkey
+bear, cat, bird, cow, dog, jaguar, pig
+frog, bird, cat, cow, dog, fish, lion, pig
+lion, bear, cat, cow, dog, frog, pig
+cow, dog, lion, cat, frog, monkey, pig

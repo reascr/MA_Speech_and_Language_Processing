@@ -1,0 +1,15 @@
+bear
+bird
+cat
+cow
+dog
+fish
+frog
+jaguar
+leopard
+lion
+monkey
+pig
+turkey
+wild turkey
+zebra
